@@ -1,0 +1,2 @@
+A continuación se presenta una ejercicio en el cual se utiliza DAO y SINGLETON para conectar JAVA con MYSQL , se implementan dos metodos ,
+ uno que devuelve la lista completa que contine la tabla, y un segundo metodo en el cual se inserta un miembro en la base de datos
